@@ -3,7 +3,7 @@ class Dog
     puts "Woof!"
   end
   
-  def split
+  def sit
     puts "The Dog is sitting"
   end
 end
